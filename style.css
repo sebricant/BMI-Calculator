@@ -1,0 +1,77 @@
+html{
+  padding:0;
+  margin:0;
+  font-size: 62.5%;
+}
+.logo-img{
+  width: 60px;
+}
+.header-name{
+  font-size: 3rem;
+  font-weight: 800;
+  color: #e57310;
+}
+
+.nav{
+  font-size: 2rem;
+}
+.link-pro{
+  color: #9E4F0B;
+  text-decoration: none;
+}
+.link-pro:hover{
+  color: #e2710f;
+  text-decoration: underline;
+  
+}
+.field{
+  background-color:antiquewhite;
+  width: 60%;
+  height: 40%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  padding-bottom: 1rem;
+}
+.font-20{
+  font-size: 3rem;
+  font-weight: 500;
+  padding:2rem;
+}
+
+.form{
+  font-size: 2rem;
+  padding:.5rem;
+  border-radius: .5rem;
+  text-align: center;
+  margin: 1rem;
+}
+.FormSpace{
+ margin-left:6rem;
+}
+.SvgSize{
+  font-size: 3rem;
+}
+.buttonCommon{
+  border:0;
+  border-radius: .5rem;
+  border-color: none;
+  padding:1rem 2rem;
+  color: black;
+  margin:2rem;
+}
+.btn-green{
+  background-color: chartreuse;
+}
+.btn-orange{
+  background-color: #e57310;
+}
+
+.content-text{
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.bmiClass{
+  font-size: 2rem;
+  font-weight: 600;
+}
